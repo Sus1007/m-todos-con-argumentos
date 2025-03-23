@@ -6,7 +6,7 @@ package com.mycompany.metodos;
 
 /**
  *
- * @author Denisse Joya
+ * @author Perla Díaz 
  */
 public class Metodos {
 /**
